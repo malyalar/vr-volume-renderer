@@ -8,7 +8,7 @@ The default provided .apk is a medium-quality CT scan of a cadaveric foot, perfu
 
 ## Totally High-Quality Screencapture
 
-![Low Quality Screencapture](ViVRe/Android builds and images/VRVR.gif)
+![Low Quality Screencapture](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/VRVR.gif)
 
 ## Details
 
@@ -23,4 +23,4 @@ Based on user [@mattatz's](https://github.com/mattatz/unity-volume-rendering) im
 
 ## More Screenshots
 
-![Low Quality Screencapture](ViVRe/Android builds and images/vasculature and bone.png)
+![Low Quality Screencapture](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/vasculature%20and%20bone.png)
