@@ -8,7 +8,7 @@ The default provided .apk is a medium-quality CT scan of a cadaveric foot, perfu
 
 ## Totally High-Quality Screencapture
 
-![Low Quality Screencapture](VRVR.gif)
+![Low Quality Screencapture](/Android builds and images/VRVR.gif)
 
 ## Details
 
@@ -23,4 +23,4 @@ Based on user [@mattatz's](https://github.com/mattatz/unity-volume-rendering) im
 
 ## More Screenshots
 
-![Low Quality Screencapture](Android builds and images/head and torso.png)
+![Low Quality Screencapture](/Android builds and images/head and torso.png)
