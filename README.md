@@ -1,6 +1,6 @@
 # ViVRe
 
-## __VI__rtual reality __V__olume __R__enderer for anatomy __E__ducation
+## VIrtual reality Volume Renderer for anatomy Education
 
 This Unity application and source allows a user to build an .apk that renders a CT Scan or MRI result in realtime 3D on android phones. The user can also slice and rotate the model as desired. Can be used by any institution that wishes to inexpensively allow students to study three-dimensional radiographs and complex anatomy slices. 
 
