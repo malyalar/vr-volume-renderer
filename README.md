@@ -1,7 +1,7 @@
 # ViVRe
 Virtual Reality Dicom Volume Renderer for Mobile Devices
 
-![dfgdfg](ViVRe/VRVR.gif)
+![Low Quality Screencapture](VRVR.gif)
 
 This Unity application and source allows a user to build an .apk that renders a CT Scan or MRI result in realtime 3D on android phones. The user can also slice and rotate the model as desired. Can be used by any institution that wishes to inexpensively allow students to study three-dimensional radiographs and complex anatomy slices. The default provided .apk is that of a foot imaged with the BriteVu contrast agent.
 
