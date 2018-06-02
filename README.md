@@ -6,7 +6,7 @@ This Unity application and source allows a user to build an .apk that renders a 
 
 The default provided .apk is a medium-quality CT scan of a cadaveric foot, perfused with the BriteVu contrast agent. The use of virtual reality is thought to improve understanding of three-dimensional anatomy over the use of 2D media. The primary novelty of this application lies in the fact that this volume renderer can run on a mobile device at high framerate, and can provide students the ability to slice their anatomic models as they wish, removing the need for a large physical collection of expensive pre-sliced prosections.
 
-## Totally Quality Screencapture Demo
+## Totally High-Quality Screencapture
 
 ![Low Quality Screencapture](VRVR.gif)
 
