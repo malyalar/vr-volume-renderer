@@ -26,4 +26,5 @@ Based on user [@mattatz's](https://github.com/mattatz/unity-volume-rendering) im
 <img src="https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/vasculature%20and%20bone.png" width=400 />
 <img src="https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/skin%20foot.png" width=400 />
 <img src="https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/head%20and%20torso.png" width=400 />
+<img src="https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/cut%20foot.png" width=400 />
 </p>
