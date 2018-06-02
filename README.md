@@ -22,7 +22,8 @@ Based on user [@mattatz's](https://github.com/mattatz/unity-volume-rendering) im
 6. Dicom image files can be edited within ImageJ before/after converting to .raw to isolate specific hounsfield ranges, crop the image stack (and hence the volume), and even doctor certain portions of the image (adding labels, colorizing, etc).
 
 ## More Screenshots
-
-![](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/vasculature%20and%20bone.png)
-![](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/skin%20foot.png)
-![](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/head%20and%20torso.png)
+<p float="left">
+<img src="https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/vasculature%20and%20bone.png" width=400 />
+<img src="https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/skin%20foot.png" width=400 />
+<img src="https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/head%20and%20torso.png" width=400 />
+</p>
