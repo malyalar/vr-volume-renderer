@@ -9,6 +9,7 @@ The default provided .apk is a medium-quality CT scan of a cadaveric foot, perfu
 ## Totally High-Quality Screencapture
 
 ![Low Quality Screencapture](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/VRVR.gif)
+**I promise the actual application looks MUCH better than this space-limited overcompressed gif.**
 
 ## Details
 
