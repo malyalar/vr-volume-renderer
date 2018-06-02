@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b6d9412aff759420192d8dcf33f969bb
+timeCreated: 1523468793
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inactiveMaterial: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
+  - gazedAtMaterial: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
+  - rotatedObject: {fileID: 1377888114300926, guid: 6b3a590fd7bb3524085d2ec57fb5c8e2,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

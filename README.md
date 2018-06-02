@@ -20,3 +20,7 @@ Based on user [@mattatz's](https://github.com/mattatz/unity-volume-rendering) im
 4. Resolved errors with the previous volume renderer implementation to render low-hounsfield values as black. In other words, parts that aren't bone will now appear transparent, and thus the prism volume gameObject of the volume renderer in Unity can be moved to any scene and have the background scenery appear through bones/vessels/etc.
 5. A guide is included on how to convert dicoms to raw for [@mattatz's](https://github.com/mattatz/unity-volume-rendering) VolumeAssetBuilder to parse properly. This bypasses his previous requirement to download cygwin (if on windows) and work with V^3, an arduous process. This guide uses the free software ImageJ. It is now significantly easier to import custom CT volumes into Unity.
 6. Dicom image files can be edited within ImageJ before/after converting to .raw to isolate specific hounsfield ranges, crop the image stack (and hence the volume), and even doctor certain portions of the image (adding labels, colorizing, etc).
+
+## More Screenshots
+
+![Low Quality Screencapture](Android builds and images/head and torso.png)
