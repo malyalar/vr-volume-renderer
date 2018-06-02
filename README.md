@@ -23,6 +23,6 @@ Based on user [@mattatz's](https://github.com/mattatz/unity-volume-rendering) im
 
 ## More Screenshots
 
-![](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/vasculature%20and%20bone.png | width=300 height=150)
-![](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/skin%20foot.png | width=300 height=150)
-![](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/head%20and%20torso.png | width=300 height=150)
+![](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/vasculature%20and%20bone.png)
+![](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/skin%20foot.png)
+![](https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/head%20and%20torso.png)
