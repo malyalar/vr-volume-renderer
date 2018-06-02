@@ -2,7 +2,9 @@
 
 ## VIrtual reality Volume Renderer for Education
 
-This Unity application and source allows a user to build an .apk that renders a CT Scan or MRI result in realtime 3D on android phones. The user can also slice and rotate the model as desired. Can be used by any institution that wishes to inexpensively allow students to study three-dimensional radiographs and complex anatomy slices. The default provided .apk is that of a foot imaged with the BriteVu contrast agent.
+This Unity application and source allows a user to build an .apk that renders a CT Scan or MRI result in realtime 3D on android phones. The user can also slice and rotate the model as desired. Can be used by any institution that wishes to inexpensively allow students to study three-dimensional radiographs and complex anatomy slices. 
+
+The default provided .apk is a medium-quality CT scan of a cadaveric foot, perfused with the BriteVu contrast agent. The use of virtual reality is thought to improve understanding of three-dimensional anatomy over the use of 2D media. The primary novelty of this application lies in the fact that this volume renderer can run on a mobile device at high framerate, and can provide students the ability to slice their anatomic models as they wish, removing the need for a large physical collection of expensive pre-sliced prosections.
 
 ## Totally Quality Screencapture Demo
 
