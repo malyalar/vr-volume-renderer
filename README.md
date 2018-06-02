@@ -23,4 +23,4 @@ Based on user [@mattatz's](https://github.com/mattatz/unity-volume-rendering) im
 
 ## More Screenshots
 
-![Low Quality Screencapture](/Android builds and images/head and torso.png)
+![Low Quality Screencapture](ViVRe/Android builds and images/head and torso.png)
