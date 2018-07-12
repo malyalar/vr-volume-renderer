@@ -1,6 +1,6 @@
 # ViVRe
 
-<img src = "https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/Figure%203_155x75mm_300dpi.png")
+<img src = "https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/Figure%203_155x75mm_300dpi.png">
 
 ## VIrtual reality Volume Renderer for anatomy Education
 
