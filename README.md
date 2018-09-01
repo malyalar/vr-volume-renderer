@@ -1,6 +1,9 @@
 # ViVRe
 
-<img src = "https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/Figure%203_155x75mm_300dpi.png">
+<p float="left">
+<img src="https://github.com/malyalar/VR-Volume-Renderer/blob/master/paper/Figure%201_55x55mm_300dpi.png" width="280" height="280" />
+<img src="https://github.com/malyalar/VR-Volume-Renderer/blob/master/paper/Figure%203_155x75mm_300dpi.png" width="600" height="280" />
+</p>
 
 ## VIrtual reality Volume Renderer for anatomy Education
 
