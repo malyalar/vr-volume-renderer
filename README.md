@@ -14,8 +14,6 @@ The default provided .apk is a medium-quality CT scan of a cadaveric foot, perfu
 <img src="https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/VRVR.gif" width="600" height="280" />
 </p>
 
-**I promise the actual application looks MUCH better than this space-limited overcompressed gif.**
-
 ## Details
 
 Based on user [@mattatz's](https://github.com/mattatz/unity-volume-rendering) implementation of a volume renderer in Unity, this adaptation adds the following functionality:
