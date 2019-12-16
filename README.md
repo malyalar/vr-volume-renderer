@@ -11,7 +11,6 @@ The default provided .apk is a medium-quality CT scan of a cadaveric foot, perfu
 ## Low-Framerate GIF Screencapture
 
 <p float="left">
-<img src="https://github.com/malyalar/VR-Volume-Renderer/blob/master/paper/Figure%201_55x55mm_300dpi.png" width="280" height="280" />
 <img src="https://github.com/malyalar/ViVRe/blob/master/Android%20builds%20and%20images/VRVR.gif" width="600" height="280" />
 </p>
 
